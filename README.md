@@ -29,8 +29,8 @@ El proyecto utiliza el lenguaje de programación Kotlin y la arquitectura de And
 
 ```bash
 git clone https://github.com/tu_usuario/android-icm-calculator-project.git
-
+```
 Abre el proyecto en Android Studio.
 Compila y ejecuta el proyecto en un emulador o dispositivo Android.
 
-El proyecta esta basado en el curso de Aristidevs
+El proyecto esta basado en el curso de Kotlin - Android Aristidevs
