@@ -12,7 +12,8 @@ El proyecto consta de dos actividades principales:
 
 ## Capturas de Pantalla
 
-![ICM_project_full](https://github.com/pablex72/android-icm-calculator-project/assets/118881130/a7da6cb3-ed02-4a6f-8ebc-6a98cec0134c)
+![ICM_project_full_update](https://github.com/pablex72/android-icm-calculator-project/assets/118881130/967ecfd3-16c8-4b4a-a694-d48472d7fdf7)
+
 
 ## Uso del Código
 
